@@ -1,2 +1,5 @@
 # Web-Based-Application
 Event Management Website
+#
+In the Past the registration to the event is like Standing in the queue  paying the money by hand. To overcome this we came with this solution paying in the online.
+In this project basically, we have an administration corner, who takes care about conducting events and details of number of participants and the cost of ticket for the particular event. In case if the participant have any queries regarding the events, we have created a group of People named volunteers”. This people will help the host for Conducting the event at particular place and time. For the participant to book ticket for an event firstly login page will be appear. If he/she is a registered user the user will be login with valid credentials. If the participant is unregistered then he should create an account then he should login with valid credentials. After login, the participant can see the list of events with appropriate details of the event. If the participant wishes to participate in any event, then he/she can book ticket for the event.
